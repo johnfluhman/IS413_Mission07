@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{6DD42ABC-2154-482B-94D8-8BC3A0D5958A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Mission07 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mission07/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="Mission07/Controllers/HomeController.cs" Line="7" Column="35" />
+      <File FileName="Mission07/Program.cs" />
+      <File FileName="Mission07/Models/Books.cs" />
+      <File FileName="Mission07/Models/ViewModels/PageInfo.cs" />
+      <File FileName="Mission07/Infrastructure/PaginationTagHelper.cs" />
+      <File FileName="Mission07/Views/Shared/_Layout.cshtml" />
+      <File FileName="Mission07/Views/Home/Index.cshtml" Line="32" Column="79" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mission07" expanded="True">
+            <Node name="Mission07" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Infrastructure" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="ViewModels" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="lib" expanded="True">
+                  <Node name="bootstrap" expanded="True">
+                    <Node name="dist" expanded="True">
+                      <Node name="css" expanded="True">
+                        <Node name="bootstrap.css" expanded="True">
+                          <Node name="bootstrap.min.css" expanded="True" />
+                        </Node>
+                      </Node>
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
